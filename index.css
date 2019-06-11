@@ -54,3 +54,7 @@ footer {
 .padded {
   padding-left: 3%;
 }
+
+.hidden {
+  display: none;
+}
